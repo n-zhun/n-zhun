@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# CV
+## CV
 
-# 
+## Jira
 
 ## Zhuzha
 
